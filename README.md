@@ -1,3 +1,3 @@
 # Desenvolvendo conhecimento da linguagem R
- - no Jupyter Notebook e,
- - no R Studio.
+ 
+ Usando o ambiente do Jupyter Notebook e do R Studio.
