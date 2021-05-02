@@ -1,4 +1,4 @@
-### LINGAGEM R ###
+### LINGUAGEM R ###
 
 # INTRODUÇÂO
 
@@ -163,6 +163,10 @@ matriz = matrix(c(1,2),
                 nrow = 1, ncol = 2, 
                 byrow = TRUE)
 matriz
+
+nrow(matriz)  # retorna número de linhas do dataframe
+ncol(matriz)  # retorna número de colunas do dataframe
+dim(matriz)   # retorna número de linhas e colunas
 
 # outro exemplo
 # uma matriz "3 x 4" - de três linhas por quatro colunas
