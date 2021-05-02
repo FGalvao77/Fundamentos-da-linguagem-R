@@ -141,7 +141,7 @@ y = c(1,2,3)
 z = c(T,F,T)
 lista = c(x,y,z)
 
-# imprimindo o resultado das variávies
+# imprimindo o resultado das variáveis
 print(x)
 print(y)
 print(z)
